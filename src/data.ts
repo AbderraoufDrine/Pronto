@@ -23,7 +23,7 @@ export const featuredProducts: Products = [
       },
       {
         title: "Medium",
-        additionalPrice: 4,
+        additionalPrice: 3,
       },
       {
         title: "Large",
